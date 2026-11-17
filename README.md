@@ -1,5 +1,5 @@
 <div align="center">
-<img src="portfolio-assets/cover.svg" width="100%" alt="MEMS Force Sensor project cover">
+<img src="https://raw.githubusercontent.com/Ace-Alch/Ace-Alch.github.io/main/banners/mems-force-sensor.webp" width="100%" alt="mems-force-sensor — project concept artwork">
 
 # MEMS Force Sensor
 
